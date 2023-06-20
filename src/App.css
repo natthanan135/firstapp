@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #f8fb61;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+.MyHeader{
+  background-color: rgb(207, 207, 255);
+  text-align: center;
+}
+.MyFooter{
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+.MyContent {
+  text-align: center;
+  font-size: larger;
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 15px;
+  border: 2px solid;
 }
