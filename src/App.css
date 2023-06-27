@@ -53,3 +53,11 @@
   border-radius: 15px;
   border: 2px solid;
 }
+.isPrimeNumber{
+  text-align: center;
+  font-size: larger;
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 15px;
+  border: 2px solid;
+}
